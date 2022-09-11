@@ -1,11 +1,11 @@
-== TWEAK ==
+== :camera_flash: TWEAK  ==
 
-== About the app ==
+== :page_with_curl: About the app  ==
 
 Tweak is a fun image editing tool with integrated features like camera to Click photos that can be edited further. It can fetch different images from the internet for free and set them as user's home screen wallpaper in just a click. It also categrizes images under different sections such as Nature, Travel, Arts, Music, Architechure, Technology, Abstract, Cars. 
 Other features include its ability to Search and fetch any image from web, Edit images with different features like crop, warmth, saturation, filters, frames, roundness, exposure, contrast, vignette, orientation, sharpness, pixelate, draw, stickers, and add text. It also has a painting tool. On this paint screen, one can draw freehand sketches.
 
-== App Screenshots ==
+== :iphone: App Screenshots ==
 
 |<img src ="https://user-images.githubusercontent.com/95130870/189524463-a7d13b4a-7c04-4f77-b742-b9563e2a7c98.png" width="200" height="400" /> | 
 <img src ="https://user-images.githubusercontent.com/95130870/189524482-a8f21a0d-a297-4925-af40-ae5681ae3b72.png" width="200" height="400" />|
@@ -17,7 +17,7 @@ Other features include its ability to Search and fetch any image from web, Edit 
 <img src ="https://user-images.githubusercontent.com/95130870/189524586-822b29a9-5f64-459e-a174-be7fe1f25065.png" width="200" height="400"/>|
 
 
-== Key Features ==
+== :pushpin: Key Features ==
 
 - 30+ Filters to enhance the image
 - Tools like Crop, Round, Exposure, Contrast,Vignette, Saturation, Orientation, Warmth, Pixelate, Sharpness, Draw
@@ -32,6 +32,6 @@ Other features include its ability to Search and fetch any image from web, Edit 
 - Download your paintings to gallery
 - All styles can be tweaked easily
 
-== Tech Stack implemented ==
+== :pushpin: Tech Stack implemented ==
 
 Java, Volley library, Recycler view, Pexels API for free images, Android Studio
