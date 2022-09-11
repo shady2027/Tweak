@@ -2,6 +2,8 @@
 
 == :page_with_curl: About the app  ==
 
+<img src = "https://user-images.githubusercontent.com/95130870/189525962-d400c7a5-3132-421d-9da4-172dca44a806.png" width="1024px" height="500px" /> 
+
 Tweak is a fun image editing tool with integrated features like camera to Click photos that can be edited further. It can fetch different images from the internet for free and set them as user's home screen wallpaper in just a click. It also categrizes images under different sections such as Nature, Travel, Arts, Music, Architechure, Technology, Abstract, Cars. 
 Other features include its ability to Search and fetch any image from web, Edit images with different features like crop, warmth, saturation, filters, frames, roundness, exposure, contrast, vignette, orientation, sharpness, pixelate, draw, stickers, and add text. It also has a painting tool. On this paint screen, one can draw freehand sketches.
 
