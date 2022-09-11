@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_round_home_icon"
+        android:background ="@drawable/icon_color"
+        android:iconTint="@drawable/icon_color"
+        android:textColor = "@drawable/icon_color"
+        />
+    <item
+        android:id="@+id/camera"
+        android:title="Camera"
+        android:icon="@drawable/ic_round_camera_icon"
+        android:background = "@drawable/icon_color"
+        android:iconTint="@drawable/icon_color"
+        android:textColor = "@drawable/icon_color"/>
+    <item
+        android:id="@+id/gallery"
+        android:title="Photos"
+        android:icon="@drawable/ic_baseline_folder_copy_icon"
+        android:background = "@drawable/icon_color"
+        android:iconTint="@drawable/icon_color"
+        android:textColor = "@drawable/icon_color"
+        />
+
+
+
+
+
+</menu>
