@@ -9,13 +9,13 @@ Other features include its ability to Search and fetch any image from web, Edit 
 
 == :iphone: **App Screenshots** ==
 
-|<img src ="https://user-images.githubusercontent.com/95130870/189524463-a7d13b4a-7c04-4f77-b742-b9563e2a7c98.png" width="200" height="400" /> | 
+|<img src ="https://user-images.githubusercontent.com/95130870/189524463-a7d13b4a-7c04-4f77-b742-b9563e2a7c98.png" width="200" height="400" />| 
 <img src ="https://user-images.githubusercontent.com/95130870/189524482-a8f21a0d-a297-4925-af40-ae5681ae3b72.png" width="200" height="400" />|
 <img src ="https://user-images.githubusercontent.com/95130870/189524487-04a51eba-f59f-4189-94c0-ae61e68aed99.png" width="200" height="400" />|
 <img src ="https://user-images.githubusercontent.com/95130870/189524495-c7b2aa37-938a-427e-a5b2-c7ae1b0e98b2.png" width="200" height="400" />|
 <img src ="https://user-images.githubusercontent.com/95130870/189524500-6ace5a85-4159-4705-bda8-c9e46e5bd851.png" width="200" height="400" />|
 <img src ="https://user-images.githubusercontent.com/95130870/189524560-a3712a76-477e-4a12-976c-5789a9320acd.png" width="200" height="400" />|
-<img src ="https://user-images.githubusercontent.com/95130870/189524571-dd2d13d8-5422-4f24-bb78-d0e7f54c06f6.png"  width="200" height="400" />
+<img src ="https://user-images.githubusercontent.com/95130870/189524571-dd2d13d8-5422-4f24-bb78-d0e7f54c06f6.png"  width="200" height="400" />|
 <img src ="https://user-images.githubusercontent.com/95130870/189524586-822b29a9-5f64-459e-a174-be7fe1f25065.png" width="200" height="400"/>|
 
 
